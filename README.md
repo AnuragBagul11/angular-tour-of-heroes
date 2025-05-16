@@ -25,3 +25,31 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Features
+- Hero Dashboard
+- Hero Detail View
+- Hero Search Functionality
+- REST API Integration
+- Responsive UI
+
+## Technologies Used
+- Angular 19 (Standalone Components)
+- TypeScript
+- HTML & CSS
+- JSON Server (Mock Backend)
+
+## Getting Started
+
+### Prerequisites
+- Node.js (v18+)
+- Angular CLI (v19+)
+
+### Installation
+
+Clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/AnuragBagul11/angular-tour-of-heroes.git
+cd angular-tour-of-heroes
+npm install
